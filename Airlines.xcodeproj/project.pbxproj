@@ -9,21 +9,6 @@
 /* Begin PBXBuildFile section */
 		037A700D1982500982871EB0 /* Pods_AirlinesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B40A0DF22B4879FE0DD8DBC9 /* Pods_AirlinesUITests.framework */; };
 		1F6395C2F8FB9775DBA8110B /* Pods_AirlinesTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDAE572B6506588E5FAD7E64 /* Pods_AirlinesTests.framework */; };
-		8B80FCC522030030003AA381 /* GatesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A79E2921F7BBA900B02B3A /* GatesViewController.swift */; };
-		8B80FCC622030030003AA381 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A79DFD21F7893F00B02B3A /* LoginViewController.swift */; };
-		8B80FCC722030030003AA381 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A79DFB21F7893F00B02B3A /* AppDelegate.swift */; };
-		8B80FCC822030030003AA381 /* LoginButtonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A79E2D21F8137800B02B3A /* LoginButtonTableViewCell.swift */; };
-		8B80FCC922030030003AA381 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F1462200E65400D23D01 /* String+Extensions.swift */; };
-		8B80FCCA22030030003AA381 /* TopicsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F14C2202189F00D23D01 /* TopicsViewController.swift */; };
-		8B80FCCB22030030003AA381 /* GatesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F15022024FE100D23D01 /* GatesTableViewCell.swift */; };
-		8B80FCCC22030030003AA381 /* FlightsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F1522202B83100D23D01 /* FlightsTableViewCell.swift */; };
-		8B80FCCD22030030003AA381 /* LoginTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A79E2B21F7D98600B02B3A /* LoginTableViewCell.swift */; };
-		8B80FCCE22030030003AA381 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F1422200DDCD00D23D01 /* Constants.swift */; };
-		8B80FCCF22030030003AA381 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F1442200E0DB00D23D01 /* User.swift */; };
-		8B80FCD122030030003AA381 /* Pods_Airlines.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6EAB93736DCCDD6195101A6 /* Pods_Airlines.framework */; };
-		8B80FCD322030030003AA381 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6A79E0421F7893F00B02B3A /* LaunchScreen.storyboard */; };
-		8B80FCD422030030003AA381 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C681F14E2202296800D23D01 /* Assets.xcassets */; };
-		8B80FCD522030030003AA381 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6A79DFF21F7893F00B02B3A /* Main.storyboard */; };
 		90DFB9CF74B772423D2A1D93 /* Pods_Airlines.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6EAB93736DCCDD6195101A6 /* Pods_Airlines.framework */; };
 		C681F1432200DDCD00D23D01 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F1422200DDCD00D23D01 /* Constants.swift */; };
 		C681F1452200E0DB00D23D01 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C681F1442200E0DB00D23D01 /* User.swift */; };
@@ -64,7 +49,6 @@
 		1A49F8215AE1748610BBEE6F /* Pods-AirlinesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AirlinesTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AirlinesTests/Pods-AirlinesTests.release.xcconfig"; sourceTree = "<group>"; };
 		3E89798F75F1D8E2DB794692 /* Pods-Airlines.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Airlines.release.xcconfig"; path = "Pods/Target Support Files/Pods-Airlines/Pods-Airlines.release.xcconfig"; sourceTree = "<group>"; };
 		8B2EF6167FD790BB03DE09EA /* Pods-Airlines.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Airlines.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Airlines/Pods-Airlines.debug.xcconfig"; sourceTree = "<group>"; };
-		8B80FCDA22030030003AA381 /* Airlines_Dev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Airlines_Dev.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B80FCDB22030030003AA381 /* Airlines copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Airlines copy-Info.plist"; path = "/Users/developer/Documents/AmericanAirlines_Workspace/POC/iOS/AAPOC/Airlines copy-Info.plist"; sourceTree = "<absolute>"; };
 		A7DCB8A970EE8F39FA2A0D1B /* Pods-AirlinesUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AirlinesUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AirlinesUITests/Pods-AirlinesUITests.release.xcconfig"; sourceTree = "<group>"; };
 		B40A0DF22B4879FE0DD8DBC9 /* Pods_AirlinesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AirlinesUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,14 +81,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8B80FCD022030030003AA381 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8B80FCD122030030003AA381 /* Pods_Airlines.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		C6A79DF521F7893F00B02B3A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -211,7 +187,6 @@
 				C6A79DF821F7893F00B02B3A /* Airlines.app */,
 				C6A79E0C21F7893F00B02B3A /* AirlinesTests.xctest */,
 				C6A79E1721F7893F00B02B3A /* AirlinesUITests.xctest */,
-				8B80FCDA22030030003AA381 /* Airlines_Dev.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -254,25 +229,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8B80FCC222030030003AA381 /* Airlines_Dev */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8B80FCD722030030003AA381 /* Build configuration list for PBXNativeTarget "Airlines_Dev" */;
-			buildPhases = (
-				8B80FCC322030030003AA381 /* [CP] Check Pods Manifest.lock */,
-				8B80FCC422030030003AA381 /* Sources */,
-				8B80FCD022030030003AA381 /* Frameworks */,
-				8B80FCD222030030003AA381 /* Resources */,
-				8B80FCD622030030003AA381 /* [CP] Embed Pods Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = Airlines_Dev;
-			productName = Airlines;
-			productReference = 8B80FCDA22030030003AA381 /* Airlines_Dev.app */;
-			productType = "com.apple.product-type.application";
-		};
 		C6A79DF721F7893F00B02B3A /* Airlines */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = C6A79E2021F7893F00B02B3A /* Build configuration list for PBXNativeTarget "Airlines" */;
@@ -369,22 +325,11 @@
 				C6A79DF721F7893F00B02B3A /* Airlines */,
 				C6A79E0B21F7893F00B02B3A /* AirlinesTests */,
 				C6A79E1621F7893F00B02B3A /* AirlinesUITests */,
-				8B80FCC222030030003AA381 /* Airlines_Dev */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8B80FCD222030030003AA381 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8B80FCD322030030003AA381 /* LaunchScreen.storyboard in Resources */,
-				8B80FCD422030030003AA381 /* Assets.xcassets in Resources */,
-				8B80FCD522030030003AA381 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		C6A79DF621F7893F00B02B3A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -432,50 +377,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8B80FCC322030030003AA381 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Airlines-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8B80FCD622030030003AA381 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Airlines/Pods-Airlines-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PKHUD.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Airlines/Pods-Airlines-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		AC12089C252979F7C6FA4CF5 /* [CP] Embed Pods Frameworks */ = {
@@ -547,24 +448,6 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8B80FCC422030030003AA381 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8B80FCC522030030003AA381 /* GatesViewController.swift in Sources */,
-				8B80FCC622030030003AA381 /* LoginViewController.swift in Sources */,
-				8B80FCC722030030003AA381 /* AppDelegate.swift in Sources */,
-				8B80FCC822030030003AA381 /* LoginButtonTableViewCell.swift in Sources */,
-				8B80FCC922030030003AA381 /* String+Extensions.swift in Sources */,
-				8B80FCCA22030030003AA381 /* TopicsViewController.swift in Sources */,
-				8B80FCCB22030030003AA381 /* GatesTableViewCell.swift in Sources */,
-				8B80FCCC22030030003AA381 /* FlightsTableViewCell.swift in Sources */,
-				8B80FCCD22030030003AA381 /* LoginTableViewCell.swift in Sources */,
-				8B80FCCE22030030003AA381 /* Constants.swift in Sources */,
-				8B80FCCF22030030003AA381 /* User.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		C6A79DF421F7893F00B02B3A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -634,50 +517,6 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		8B80FCD822030030003AA381 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8B2EF6167FD790BB03DE09EA /* Pods-Airlines.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: IMPERIAL TOBACCO LTD";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 73465VX64H;
-				INFOPLIST_FILE = "Airlines copy-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.imptob.gtr.360activate;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "ITG GTR 360activate (29.05.19)";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		8B80FCD922030030003AA381 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3E89798F75F1D8E2DB794692 /* Pods-Airlines.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: IMPERIAL TOBACCO LTD";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 73465VX64H;
-				INFOPLIST_FILE = "Airlines copy-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.imptob.gtr.360activate;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "ITG GTR 360activate (29.05.19)";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 		C6A79E1E21F7893F00B02B3A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -927,15 +766,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8B80FCD722030030003AA381 /* Build configuration list for PBXNativeTarget "Airlines_Dev" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8B80FCD822030030003AA381 /* Debug */,
-				8B80FCD922030030003AA381 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		C6A79DF321F7893F00B02B3A /* Build configuration list for PBXProject "Airlines" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
